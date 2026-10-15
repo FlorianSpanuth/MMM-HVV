@@ -1,0 +1,33 @@
+{
+  "name": "mmm-hvv",
+  "version": "0.1.0",
+  "description": "Hamburg public transport (HVV) for MagicMirror² – departures with real-time data and a leave-time countdown, routes with transfers, and a live map with moving vehicles",
+  "main": "MMM-HVV.js",
+  "license": "MIT",
+  "keywords": [
+    "MagicMirror",
+    "MagicMirror2",
+    "HVV",
+    "Hamburg",
+    "public transport",
+    "departures",
+    "Geofox",
+    "map"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "find-station": "node scripts/find-station.js",
+    "test": "node --test"
+  },
+  "author": "Florian Spanuth",
+  "homepage": "https://github.com/FlorianSpanuth/MMM-HVV#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorianSpanuth/MMM-HVV.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FlorianSpanuth/MMM-HVV/issues"
+  }
+}

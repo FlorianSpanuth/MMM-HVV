@@ -1,0 +1,19 @@
+{
+	"LOADING": "Lade Abfahrten …",
+	"ERROR": "Fehler",
+	"NOW": "jetzt",
+	"IN_MIN": "{min} Min",
+	"LEAVE_IN": "los in {time}",
+	"LEAVE_NOW": "jetzt los!",
+	"WALK": "{time} Min Fußweg",
+	"CANCELLED": "fällt aus",
+	"EXTRA": "Verstärker",
+	"NO_DEPARTURES": "keine Abfahrten",
+	"NO_CONNECTIONS": "keine Verbindungen",
+	"ARRIVE": "an {time}",
+	"TRANSFERS": "{n}× umst.",
+	"DIRECT": "direkt",
+	"LOADING_MAP": "Karte wird vorbereitet …",
+	"MOVED": "verlegt",
+	"MAP_ATTRIBUTION": "Karte © OpenStreetMap"
+}

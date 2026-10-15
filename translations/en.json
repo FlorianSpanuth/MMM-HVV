@@ -1,0 +1,19 @@
+{
+	"LOADING": "Loading departures …",
+	"ERROR": "Error",
+	"NOW": "now",
+	"IN_MIN": "{min} min",
+	"LEAVE_IN": "leave in {time}",
+	"LEAVE_NOW": "leave now!",
+	"WALK": "{time} min walk",
+	"CANCELLED": "cancelled",
+	"EXTRA": "extra",
+	"NO_DEPARTURES": "no departures",
+	"NO_CONNECTIONS": "no connections",
+	"ARRIVE": "arr. {time}",
+	"TRANSFERS": "{n}× change",
+	"DIRECT": "direct",
+	"LOADING_MAP": "Preparing map …",
+	"MOVED": "stop moved",
+	"MAP_ATTRIBUTION": "Map © OpenStreetMap"
+}
